@@ -2,11 +2,9 @@ import java.util.Scanner;
 public class TwoDimensionalArray
 	{
 
-		public static void main(String[] args)
-			{
-				// TODO Auto-generated method stub
-
-				int[][] myArray =
+			
+		
+			static int[][] myArray =
 				{
 							{3, 5, 9, 2, -1, 8, 13}, 
 							{-2, 5, 1, 11, 8, 2, 0}, 
@@ -17,7 +15,14 @@ public class TwoDimensionalArray
 							{-3, 1, 1, 4, 11, 12, 4}
 							};
 
-				
+				public static void main(String[] args)
+					{
+			for(int row = 0; row < myArray.length; row++);
+				{
+				for (int col = 0; col<myArray[0].length; col++};
+				}
+						
+						
 			}
 
 	}
