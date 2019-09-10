@@ -7,7 +7,7 @@ public class TwoDimensionalArray
 				// TODO Auto-generated method stub
 
 				int[][] myArray =
-							{
+				{
 							{3, 5, 9, 2, -1, 8, 13}, 
 							{-2, 5, 1, 11, 8, 2, 0}, 
 							{9, 1, -3, 4, 8, 4, 8}, 
@@ -17,8 +17,6 @@ public class TwoDimensionalArray
 							{-3, 1, 1, 4, 11, 12, 4}
 							};
 
-				myArray[0][0] = 3;
-				
 				
 			}
 
