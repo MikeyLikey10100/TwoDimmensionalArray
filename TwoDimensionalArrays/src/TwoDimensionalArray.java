@@ -16,13 +16,20 @@ public class TwoDimensionalArray
 							};
 
 				public static void main(String[] args)
+		
 					{
-			for(int row = 0; row < myArray.length; row++);
+			for(int row = 0; row< myArray.length; row++)
 				{
-				for (int col = 0; col<myArray[0].length; col++};
-				}
+				for(int col = 0; col<myArray.length; col++)
+					{
+					
+					System.out.println(row + col);	
+					}
+				
+				
+					}
 						
 						
 			}
-
 	}
+	
